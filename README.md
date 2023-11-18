@@ -1,2 +1,2 @@
 # trie
-Implementation of a trie to store words in c++ (useful for autocorrect, suggestions, etc)
+Run "make" in terminal to build a.out file. Reference trietest.cpp to see available commands used by driver
